@@ -1,0 +1,13 @@
+.home-background {
+    background-image: url('https://fondosmil.com/fondo/27333.jpg'); /* Reemplaza 'ruta-de-la-imagen.jpg' con la ruta de tu imagen de fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:20px; 
+    
+  }
+
+ 
